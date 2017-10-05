@@ -1,0 +1,27 @@
+body {
+font-family:arial,calibri,helvetica,sans-serif;
+font-size:11pt;
+color:#222;
+background-color:black;
+background-image:url(images/R4T_hdrBG.gif);
+background-repeat:repeat-x;
+margin:0px;
+padding:0px;
+}
+
+.hdr {
+border:solid 0px transparent;
+float:left;
+}
+
+.contborder {
+float:left;
+width:10px;
+background-image:url(images/contBG.gif);
+background-repeat:repeat-x;
+}
+
+#contentID {
+float:left;
+}
+
